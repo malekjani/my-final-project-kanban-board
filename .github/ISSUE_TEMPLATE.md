@@ -1,25 +1,21 @@
-### User Story
-As a [specific user], I need [specific functionality] so that [specific goal].
-
 ### Issue Title
-A brief and descriptive title.
+Add labels to tasks for categorization
+
+### User Story
+As a team member, I need to assign labels to tasks so that I can easily categorize and prioritize them.
 
 ### Description
-A clear and concise description of the problem, task, or enhancement.
+This feature allows users to add labels to tasks in the Kanban board. Labels can be used for priority, type, or category of tasks.
 
-### Steps to Reproduce (if applicable)
-1. Step one
-2. Step two
-3. ...
+### Acceptance Criteria
+- [ ] Users can create new labels.
+- [ ] Users can assign labels to tasks.
+- [ ] Labels are displayed on the Kanban board.
+- [ ] Given there are no labels created, when the user creates a new label, then the label should appear in the label list.
+- [ ] Given a task exists on the Kanban board, when the user assigns a label to the task, then the label should appear under the task on the board.
 
 ### Expected Outcome
-What should happen?
-
-### Actual Outcome
-What actually happens?
+Users should be able to create and assign labels to tasks, and the labels should appear correctly on the Kanban board.
 
 ### Additional Context
-Add any other context about the issue here.
-### Acceptance Criteria
-- [ ] Given [current state], when [action], then [expected outcome].
-- [ ] Additional criteria.
+N/A
