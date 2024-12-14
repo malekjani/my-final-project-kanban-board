@@ -1,3 +1,6 @@
+### User Story
+As a [specific user], I need [specific functionality] so that [specific goal].
+
 ### Issue Title
 A brief and descriptive title.
 
@@ -17,3 +20,6 @@ What actually happens?
 
 ### Additional Context
 Add any other context about the issue here.
+### Acceptance Criteria
+- [ ] Given [current state], when [action], then [expected outcome].
+- [ ] Additional criteria.
